@@ -1,0 +1,3 @@
+boto3>=1.34.0        # AWS SDK for Python
+botocore>=1.34.0     # Low-level AWS service data (dependency of boto3)
+pytest>=7.0.0        # For running unit tests
